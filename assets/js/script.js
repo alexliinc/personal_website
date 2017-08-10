@@ -7,8 +7,8 @@ $(document).ready(function() {
   $("#about").click(function() {
     $("#index").fadeOut();
     $("#about_scroll").fadeIn();
-    $('#about_left').addClass('animated  slideInLeft');
-    $('#about_right').addClass('animated slideInRight');
+    $('#about_left').addClass('animated  slideInRight');
+    $('#about_right').addClass('animated slideInLeft');
   });
   $("#work").click(function() {
     $("#index").fadeOut();
@@ -26,8 +26,8 @@ $(document).ready(function() {
   $(".back").click(function() {
     $(".pages").fadeOut();
     $("#index").fadeIn();
-    $('#index_left').addClass('animated slideInLeft');
-    $('#index_right').addClass('animated slideInRight');
+    $('#index_left').addClass('animated slideInRight');
+    $('#index_right').addClass('animated slideInLeft');
   });
 
 });

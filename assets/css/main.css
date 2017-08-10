@@ -60,8 +60,8 @@ body {
 
 .img-rabbit {
   /*width: 100%;*/
-  padding-top: 10em;
-  padding-right: 3em;
+  /*padding-top: 10em;
+  padding-right: 3em;*/
 }
 
 .btn-rabbit {
@@ -96,7 +96,7 @@ p {
 /*Home Style*/
 
 .logo {
-  padding-top: 100px;
+  /*padding-top: 100px;*/
   text-transform: uppercase;
   font-size: 12px;
 }
@@ -303,16 +303,22 @@ footer {
   display: block;
 }
 
-#about_left {
-  font-size: 5em;
-  text-align: right;
-  padding-top: .5em;
-}
-
 #about_right {
-  /*padding-top: 15px;*/
+  font-size: 60px;
+  text-align: right;
+  /*padding-top: 15px;
+  padding-top: .5em;*/
 }
 
-#backText {
-  padding-top: 10em;
+.index {
+  padding-top: 100px;
 }
+
+.about {
+  padding-top: 100px;
+}
+
+
+/*#about_right i:hover {
+  background-color: yellow;
+}*/
