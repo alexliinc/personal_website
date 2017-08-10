@@ -30,8 +30,8 @@ body {
 
 .social a:hover i {
   color: #fff;
-  border-color: #bb9e7d;
-  background-color: #bb9e7d;
+  border-color: #809fc1;
+  background-color: #809fc1;
 }
 
 @media (min-width: 778px) {
@@ -60,7 +60,8 @@ body {
 
 .img-rabbit {
   /*width: 100%;*/
-  padding-top: 5em;
+  padding-top: 10em;
+  padding-right: 3em;
 }
 
 .btn-rabbit {
@@ -77,8 +78,8 @@ body {
 
 .btn-rabbit:hover {
   color: #fff;
-  background-color: #bb9e7d;
-  border-color: #bb9e7d;
+  background-color: #809fc1;
+  border-color: #809fc1;
 }
 
 p {
@@ -277,8 +278,8 @@ footer {
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-  background-color: #bb9e7d;
-  border-color: #bb9e7d;
+  background-color: #809fc1;
+  border-color: #809fc1;
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover i {
