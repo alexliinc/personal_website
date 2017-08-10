@@ -119,7 +119,8 @@ footer {
   text-align: center;
   display: block;
   clear: both;
-  margin-top: 70px;
+  /*margin-top: 70px;*/
+  margin-top: 15px;
 }
 
 .back i {
@@ -304,4 +305,14 @@ footer {
 
 #about_left {
   font-size: 5em;
+  text-align: right;
+  padding-top: .5em;
+}
+
+#about_right {
+  /*padding-top: 15px;*/
+}
+
+#backText {
+  padding-top: 10em;
 }
